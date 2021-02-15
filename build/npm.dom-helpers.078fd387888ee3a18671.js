@@ -1,0 +1,1 @@
+(self.webpackChunkvstudent=self.webpackChunkvstudent||[]).push([[301],{576:(e,t,n)=>{"use strict";n.d(t,{Z:()=>r});var u=/-(.)/g;function r(e){return e.replace(u,(function(e,t){return t.toUpperCase()}))}}}]);
